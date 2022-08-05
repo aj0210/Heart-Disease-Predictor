@@ -1,8 +1,8 @@
-# Heart
+# Heart Disease Predictor
 
 Developed a Heart Disease Predictor web app using logistic regression 
 
-Deployed the web app using ##Streamlit
+Deployed the web app using Streamlit
 
 
 The user have to input the given data fields and based on input the trained model will predict whether the person is suffering from any heart disease or not.
